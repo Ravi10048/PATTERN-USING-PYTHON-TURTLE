@@ -1,4 +1,4 @@
-python3.7.3
+python3
 turtle==0.0.1
 streamlit==1.14.0
 tk==0.1.0
