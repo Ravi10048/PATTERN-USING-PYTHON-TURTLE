@@ -1,4 +1,4 @@
-from turtle import *
+from turtle import up,down,bgcolor,color,title,speed,forward,backward,circle,begin_fill,end_fill,fillcolor,goto,Pen,pencolor,pendown,pensize,penup,right,left,hideturtle,colormode,setheading,tracer,reset,mainloop,Terminator
 import streamlit as st
 import time
 from PIL import Image
