@@ -1,4 +1,4 @@
-turtle
+turtle==0.0.1
 PIL
 threading
 streamlit==1.14.0
