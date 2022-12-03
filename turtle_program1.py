@@ -4,6 +4,7 @@ import time
 from PIL import Image
 import threading
 import tkinter as Tk
+import _tkinter
 def pattern1():
     title("PATTERN1")
     bgcolor("white")
