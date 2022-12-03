@@ -1,6 +1,1 @@
-python3
-turtle==0.0.1
 streamlit==1.14.0
-tk==0.1.0
-tk-tools==0.16.0
-tcl==0.2
