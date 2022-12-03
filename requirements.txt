@@ -1,2 +1,3 @@
 turtle==0.0.1
 streamlit==1.14.0
+tkinter==0.1.0
