@@ -1,3 +1,2 @@
 turtle==0.0.1
-threading
 streamlit==1.14.0
