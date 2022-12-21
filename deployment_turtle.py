@@ -1,4 +1,4 @@
-import _tkinter
+# import _tkinter
 import tkinter as Tk
 from turtle import *
 import streamlit as st
