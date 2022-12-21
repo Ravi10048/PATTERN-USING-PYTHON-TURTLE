@@ -1,5 +1,5 @@
 import tk
-import tkinter as Tk
+# import tkinter as Tk
 from turtle import *
 import streamlit as st
 import time
