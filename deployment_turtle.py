@@ -1,6 +1,6 @@
+import _tkinter
 import tkinter as Tk
 from turtle import *
-import _tkinter
 import streamlit as st
 import time
 from PIL import Image
