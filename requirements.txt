@@ -1,3 +1,4 @@
 streamlit==1.14.0
 Everything-Tkinter==0.2
+Tcl==0.2
 tk==0.1.0
