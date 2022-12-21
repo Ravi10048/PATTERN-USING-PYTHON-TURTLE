@@ -1,10 +1,10 @@
+import tkinter as Tk
 from turtle import *
 import streamlit as st
 import time
 from PIL import Image
 import threading
 import _tkinter
-import tkinter as Tk
 import colorsys as cs
 def pattern1():
     title("PATTERN1")
